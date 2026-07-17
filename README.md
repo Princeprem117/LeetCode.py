@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Princeprem117/LeetCode.py/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Princeprem117/LeetCode.py/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Princeprem117/LeetCode.py/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/Princeprem117/LeetCode.py/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/Princeprem117/LeetCode.py/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Princeprem117/LeetCode.py/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/Princeprem117/LeetCode.py/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
