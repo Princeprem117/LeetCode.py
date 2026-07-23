@@ -1,7 +1,7 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
         s= set()
-        while n!=1 and n not in s:
+        while n!=0 and n not in s:
             s.add(n)
             t=0
             
