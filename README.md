@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Princeprem117/LeetCode.py/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Princeprem117/LeetCode.py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Princeprem117/LeetCode.py/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Princeprem117/LeetCode.py/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Princeprem117/LeetCode.py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Princeprem117/LeetCode.py/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Princeprem117/LeetCode.py/tree/master/0283-move-zeroes) |
 ## Number Theory
 |  |
 | ------- |
