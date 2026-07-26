@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Princeprem117/LeetCode.py/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/Princeprem117/LeetCode.py/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Princeprem117/LeetCode.py/tree/master/0412-fizz-buzz) |
+| [0541-reverse-string-ii](https://github.com/Princeprem117/LeetCode.py/tree/master/0541-reverse-string-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Princeprem117/LeetCode.py/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Princeprem117/LeetCode.py/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Princeprem117/LeetCode.py/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Princeprem117/LeetCode.py/tree/master/0541-reverse-string-ii) |
 ## Number Theory
 |  |
 | ------- |
