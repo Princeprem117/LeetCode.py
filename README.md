@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Princeprem117/LeetCode.py/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Princeprem117/LeetCode.py/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/Princeprem117/LeetCode.py/tree/master/0541-reverse-string-ii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Princeprem117/LeetCode.py/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3794-reverse-string-prefix](https://github.com/Princeprem117/LeetCode.py/tree/master/3794-reverse-string-prefix) |
 ## Simulation
 |  |
@@ -71,4 +72,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Princeprem117/LeetCode.py/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Princeprem117/LeetCode.py/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
