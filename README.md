@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Princeprem117/LeetCode.py/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Princeprem117/LeetCode.py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Princeprem117/LeetCode.py/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Princeprem117/LeetCode.py/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Princeprem117/LeetCode.py/tree/master/0283-move-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/Princeprem117/LeetCode.py/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Princeprem117/LeetCode.py/tree/master/0643-maximum-average-subarray-i) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Princeprem117/LeetCode.py/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Princeprem117/LeetCode.py/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Princeprem117/LeetCode.py/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Princeprem117/LeetCode.py/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Princeprem117/LeetCode.py/tree/master/0594-longest-harmonious-subsequence) |
 ## Math
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Princeprem117/LeetCode.py/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Princeprem117/LeetCode.py/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Princeprem117/LeetCode.py/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Princeprem117/LeetCode.py/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Princeprem117/LeetCode.py/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Princeprem117/LeetCode.py/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Princeprem117/LeetCode.py/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Princeprem117/LeetCode.py/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Princeprem117/LeetCode.py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Princeprem117/LeetCode.py/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -60,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Princeprem117/LeetCode.py/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Princeprem117/LeetCode.py/tree/master/1486-xor-operation-in-an-array) |
 ## Two Pointers
 |  |
@@ -87,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Princeprem117/LeetCode.py/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Princeprem117/LeetCode.py/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
