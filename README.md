@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Princeprem117/LeetCode.py/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Princeprem117/LeetCode.py/tree/master/0643-maximum-average-subarray-i) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Princeprem117/LeetCode.py/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1652-defuse-the-bomb](https://github.com/Princeprem117/LeetCode.py/tree/master/1652-defuse-the-bomb) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Princeprem117/LeetCode.py/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Princeprem117/LeetCode.py/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Princeprem117/LeetCode.py/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1652-defuse-the-bomb](https://github.com/Princeprem117/LeetCode.py/tree/master/1652-defuse-the-bomb) |
 ## Sorting
 |  |
 | ------- |
