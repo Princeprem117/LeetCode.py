@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Princeprem117/LeetCode.py/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Princeprem117/LeetCode.py/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Princeprem117/LeetCode.py/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Princeprem117/LeetCode.py/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Princeprem117/LeetCode.py/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Princeprem117/LeetCode.py/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Princeprem117/LeetCode.py/tree/master/0412-fizz-buzz) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Princeprem117/LeetCode.py/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Princeprem117/LeetCode.py/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Princeprem117/LeetCode.py/tree/master/1486-xor-operation-in-an-array) |
 ## Two Pointers
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Princeprem117/LeetCode.py/tree/master/0594-longest-harmonious-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Princeprem117/LeetCode.py/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
