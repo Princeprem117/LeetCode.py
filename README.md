@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Princeprem117/LeetCode.py/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Princeprem117/LeetCode.py/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Princeprem117/LeetCode.py/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Princeprem117/LeetCode.py/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Princeprem117/LeetCode.py/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Princeprem117/LeetCode.py/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Princeprem117/LeetCode.py/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Princeprem117/LeetCode.py/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Princeprem117/LeetCode.py/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Princeprem117/LeetCode.py/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/Princeprem117/LeetCode.py/tree/master/1486-xor-operation-in-an-array) |
 ## Two Pointers
 |  |
@@ -106,4 +108,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Princeprem117/LeetCode.py/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Princeprem117/LeetCode.py/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Princeprem117/LeetCode.py/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
