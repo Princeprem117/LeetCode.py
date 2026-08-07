@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Princeprem117/LeetCode.py/tree/master/0283-move-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/Princeprem117/LeetCode.py/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Princeprem117/LeetCode.py/tree/master/0643-maximum-average-subarray-i) |
+| [0908-smallest-range-i](https://github.com/Princeprem117/LeetCode.py/tree/master/0908-smallest-range-i) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Princeprem117/LeetCode.py/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1652-defuse-the-bomb](https://github.com/Princeprem117/LeetCode.py/tree/master/1652-defuse-the-bomb) |
 ## Hash Table
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Princeprem117/LeetCode.py/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Princeprem117/LeetCode.py/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Princeprem117/LeetCode.py/tree/master/0412-fizz-buzz) |
+| [0908-smallest-range-i](https://github.com/Princeprem117/LeetCode.py/tree/master/0908-smallest-range-i) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Princeprem117/LeetCode.py/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Princeprem117/LeetCode.py/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/Princeprem117/LeetCode.py/tree/master/1486-xor-operation-in-an-array) |
