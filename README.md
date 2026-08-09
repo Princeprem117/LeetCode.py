@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Princeprem117/LeetCode.py/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Princeprem117/LeetCode.py/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/Princeprem117/LeetCode.py/tree/master/0594-longest-harmonious-subsequence) |
+| [1763-longest-nice-substring](https://github.com/Princeprem117/LeetCode.py/tree/master/1763-longest-nice-substring) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Princeprem117/LeetCode.py/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/Princeprem117/LeetCode.py/tree/master/0541-reverse-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Princeprem117/LeetCode.py/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1763-longest-nice-substring](https://github.com/Princeprem117/LeetCode.py/tree/master/1763-longest-nice-substring) |
 | [3794-reverse-string-prefix](https://github.com/Princeprem117/LeetCode.py/tree/master/3794-reverse-string-prefix) |
 ## Simulation
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Princeprem117/LeetCode.py/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Princeprem117/LeetCode.py/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/Princeprem117/LeetCode.py/tree/master/1486-xor-operation-in-an-array) |
+| [1763-longest-nice-substring](https://github.com/Princeprem117/LeetCode.py/tree/master/1763-longest-nice-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Princeprem117/LeetCode.py/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Princeprem117/LeetCode.py/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/Princeprem117/LeetCode.py/tree/master/1652-defuse-the-bomb) |
+| [1763-longest-nice-substring](https://github.com/Princeprem117/LeetCode.py/tree/master/1763-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -116,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Princeprem117/LeetCode.py/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Princeprem117/LeetCode.py/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Princeprem117/LeetCode.py/tree/master/0342-power-of-four) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/Princeprem117/LeetCode.py/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
