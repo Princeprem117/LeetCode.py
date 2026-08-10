@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Princeprem117/LeetCode.py/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/Princeprem117/LeetCode.py/tree/master/0594-longest-harmonious-subsequence) |
 | [1763-longest-nice-substring](https://github.com/Princeprem117/LeetCode.py/tree/master/1763-longest-nice-substring) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Princeprem117/LeetCode.py/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Princeprem117/LeetCode.py/tree/master/0541-reverse-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Princeprem117/LeetCode.py/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1763-longest-nice-substring](https://github.com/Princeprem117/LeetCode.py/tree/master/1763-longest-nice-substring) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Princeprem117/LeetCode.py/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3794-reverse-string-prefix](https://github.com/Princeprem117/LeetCode.py/tree/master/3794-reverse-string-prefix) |
 ## Simulation
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Princeprem117/LeetCode.py/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/Princeprem117/LeetCode.py/tree/master/1652-defuse-the-bomb) |
 | [1763-longest-nice-substring](https://github.com/Princeprem117/LeetCode.py/tree/master/1763-longest-nice-substring) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Princeprem117/LeetCode.py/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Princeprem117/LeetCode.py/tree/master/0594-longest-harmonious-subsequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Princeprem117/LeetCode.py/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Recursion
 |  |
 | ------- |
