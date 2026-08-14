@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Princeprem117/LeetCode.py/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Princeprem117/LeetCode.py/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Princeprem117/LeetCode.py/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/Princeprem117/LeetCode.py/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Princeprem117/LeetCode.py/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Princeprem117/LeetCode.py/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Princeprem117/LeetCode.py/tree/master/0258-add-digits) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Princeprem117/LeetCode.py/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Princeprem117/LeetCode.py/tree/master/0013-roman-to-integer) |
+| [0171-excel-sheet-column-number](https://github.com/Princeprem117/LeetCode.py/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Princeprem117/LeetCode.py/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Princeprem117/LeetCode.py/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Princeprem117/LeetCode.py/tree/master/0412-fizz-buzz) |
