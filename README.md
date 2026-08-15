@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Princeprem117/LeetCode.py/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Princeprem117/LeetCode.py/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Princeprem117/LeetCode.py/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Princeprem117/LeetCode.py/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Princeprem117/LeetCode.py/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/Princeprem117/LeetCode.py/tree/master/0541-reverse-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Princeprem117/LeetCode.py/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Princeprem117/LeetCode.py/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Princeprem117/LeetCode.py/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Princeprem117/LeetCode.py/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Princeprem117/LeetCode.py/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Princeprem117/LeetCode.py/tree/master/0541-reverse-string-ii) |
 | [3794-reverse-string-prefix](https://github.com/Princeprem117/LeetCode.py/tree/master/3794-reverse-string-prefix) |
 ## Number Theory
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Princeprem117/LeetCode.py/tree/master/0160-intersection-of-two-linked-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Princeprem117/LeetCode.py/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
