@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Princeprem117/LeetCode.py/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Princeprem117/LeetCode.py/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Princeprem117/LeetCode.py/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Princeprem117/LeetCode.py/tree/master/0415-add-strings) |
 | [0908-smallest-range-i](https://github.com/Princeprem117/LeetCode.py/tree/master/0908-smallest-range-i) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Princeprem117/LeetCode.py/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Princeprem117/LeetCode.py/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Princeprem117/LeetCode.py/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Princeprem117/LeetCode.py/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Princeprem117/LeetCode.py/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Princeprem117/LeetCode.py/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/Princeprem117/LeetCode.py/tree/master/0541-reverse-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Princeprem117/LeetCode.py/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1763-longest-nice-substring](https://github.com/Princeprem117/LeetCode.py/tree/master/1763-longest-nice-substring) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Princeprem117/LeetCode.py/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Princeprem117/LeetCode.py/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Princeprem117/LeetCode.py/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
