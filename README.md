@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Princeprem117/LeetCode.py/tree/master/0001-two-sum) |
+| [0090-subsets-ii](https://github.com/Princeprem117/LeetCode.py/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Princeprem117/LeetCode.py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Princeprem117/LeetCode.py/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Princeprem117/LeetCode.py/tree/master/0219-contains-duplicate-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Princeprem117/LeetCode.py/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Princeprem117/LeetCode.py/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Princeprem117/LeetCode.py/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Princeprem117/LeetCode.py/tree/master/0342-power-of-four) |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Princeprem117/LeetCode.py/tree/master/0392-is-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Princeprem117/LeetCode.py/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
