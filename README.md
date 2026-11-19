@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Princeprem117/LeetCode.py/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/Princeprem117/LeetCode.py/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/Princeprem117/LeetCode.py/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Princeprem117/LeetCode.py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Princeprem117/LeetCode.py/tree/master/0169-majority-element) |
@@ -159,5 +160,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Princeprem117/LeetCode.py/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/Princeprem117/LeetCode.py/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
