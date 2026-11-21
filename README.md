@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Princeprem117/LeetCode.py/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Princeprem117/LeetCode.py/tree/master/0039-combination-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Princeprem117/LeetCode.py/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Princeprem117/LeetCode.py/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Princeprem117/LeetCode.py/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Princeprem117/LeetCode.py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -165,4 +166,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Princeprem117/LeetCode.py/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/Princeprem117/LeetCode.py/tree/master/0090-subsets-ii) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Princeprem117/LeetCode.py/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Princeprem117/LeetCode.py/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Princeprem117/LeetCode.py/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
